@@ -121,7 +121,6 @@ class MainActivity : AppCompatActivity() {
 
 ---
 
-
 ---
 
 ## 3. Примеры данных и тестирование
